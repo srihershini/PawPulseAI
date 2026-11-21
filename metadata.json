@@ -1,0 +1,7 @@
+{
+  "name": "PawPulse AI - Virtual Pet Care Assistant",
+  "description": "A comprehensive AI-powered pet care platform that provides breed-specific advice, tracks health metrics, manages vaccination schedules, and offers personalized dietary recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
